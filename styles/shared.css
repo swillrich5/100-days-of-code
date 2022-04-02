@@ -12,6 +12,14 @@ p {
     font-family: 'Fira Sans', sans-serif;
 }
 
+/* #description {
+    margin-bottom: 36px;
+} */
+
+header p {
+    margin-bottom: 36px;
+}
+
 a {
     font-family: 'Fira Sans', sans-serif;  
     text-decoration: none;
